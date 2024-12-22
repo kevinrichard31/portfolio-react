@@ -1,6 +1,5 @@
 // Projects.js
 import './style.css';
-import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { useState, forwardRef } from "react";
 
 const Projects = forwardRef((props, ref) => {
